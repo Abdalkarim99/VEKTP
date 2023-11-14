@@ -1,0 +1,7 @@
+{
+    "name": "karim/stock-p",
+    "type": "library",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}

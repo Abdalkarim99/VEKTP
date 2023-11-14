@@ -1,0 +1,21 @@
+Name,Id,Category,Brand,Stock,Price,Year
+T-shirt,893392,Fashion,Easy,72,250,2020
+Apple Device,678989,Gadget,Apple,45,2052,2020
+Earphone,Accessories,678857,Samsung,56,123,2020
+Keyboard,Device,354322,Lg,12,901,2020
+Laptop,Device,654678,Apple,14,23045,2020
+T-shirt,893392,Fashion,Easy,21,250,2021
+Apple Device,678989,Gadget,Apple,85,2052,2021
+Earphone,Accessories,678857,Samsung,76,123,2021
+Keyboard,Device,354322,Lg,9,901,2021
+Laptop,Device,654678,Apple,21,23045,2021
+T-shirt,893392,Fashion,Easy,10,250,2019
+Apple Device,678989,Gadget,Apple,25,2052,2019
+Earphone,Accessories,678857,Samsung,60,123,2019
+Keyboard,Device,354322,Lg,4,901,2019
+Laptop,Device,654678,Apple,8,23045,2019
+T-shirt,893392,Fashion,Easy,45,250,2023
+Apple Device,678989,Gadget,Apple,105,2052,2023
+Earphone,Accessories,678857,Samsung,116,123,2023
+Keyboard,Device,354322,Lg,39,901,2023
+Laptop,Device,654678,Apple,41,23045,2023

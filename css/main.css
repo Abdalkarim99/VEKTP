@@ -1,0 +1,86 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0px;
+}
+body .body{
+    height: 83%;
+    overflow-y: scroll;
+}
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #213357;
+    align-items: center;
+    justify-content: space-between;
+    height: 10%;
+}
+header a, footer a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+header .logo {
+    height: 60px;
+    padding-left: 25px;
+}
+
+header .navigation{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 40px;
+}
+
+header .navigation .icon{
+    height: 30px;
+}
+
+footer{
+    height: 7%;
+}
+
+footer .navigationfooter{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #213357;
+}
+
+footer .navigationfooter .hrefs{
+    width: 60%;
+    display: flex;
+    color: white;
+    font-family: 'Poppins';
+    justify-content: space-between;
+    padding-left: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    padding-top: 15px;
+}
+
+footer .navigationfooter .social-icons{
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 40px;
+}
+
+footer .navigationfooter .social-icons i{
+    font-size: 20px;
+}
+
+footer .navigationfooter .social-icons i:hover, footer .navigationfooter .hrefs p:hover, footer .navigationfooter .hrefs a:hover, header a:hover, footer a:hover{
+    color: #877455;
+}
